@@ -19,15 +19,19 @@ Este proyecto de análisis de datos explora el mercado histórico de los videoju
 3. **Pruebas de Hipótesis (Estadística):**  Formulación y evaluación estadística para comprobar si existe una diferencia significativa en las calificaciones promedio entre distintos géneros o plataformas.
 
 ## 📊 Resultados y Conclusiones Clave
-* **Tendencia de mercado y estrategia:** **El análisis de la industria revela que el mercado ha cambiado significativamente, por lo que los datos más relevantes para la planificación se encuentran en el período de 2008 a 2016. A partir de estos datos, se observa un claro ciclo de vida de las plataformas, con un promedio de 7 a 10 años desde su lanzamiento hasta su declive. La estrategia más rentable es centrarse en las plataformas que están en su fase de crecimiento o pico, como la PlayStation 4 y la Xbox One. Un dato crucial es que la mayoría de las ventas son generadas por un pequeño número de títulos superventas, lo que significa que la inversión debe ser precisa y no dispersa.**
+* **Tendencia de mercado y estrategia:**
+El análisis de la industria revela que el mercado ha cambiado significativamente, por lo que los datos más relevantes para la planificación se encuentran en el período de 2008 a 2016. A partir de estos datos, se observa un claro ciclo de vida de las plataformas, con un promedio de 7 a 10 años desde su lanzamiento hasta su declive. La estrategia más rentable es centrarse en las plataformas que están en su fase de crecimiento o pico, como la PlayStation 4 y la Xbox One. Un dato crucial es que la mayoría de las ventas son generadas por un pequeño número de títulos superventas, lo que significa que la inversión debe ser precisa y no dispersa.
  
-* **Perfiles de Usuario y Segmentación:** **Las preferencias de los jugadores varían drásticamente según la región:**
+* **Perfiles de Usuario y Segmentación:**
+
+Las preferencias de los jugadores varían drásticamente según la región:
 
 - **Norteamérica y Europa:** Estos mercados son muy similares, dominados por consolas de sobremesa y con una fuerte preferencia por los géneros de Acción, Disparos y Deportes. Los juegos dirigidos a audiencias mayores de 13 años (clasificaciones T y M) son los más rentables.
 
 - **Japón**: Este es un mercado de nicho, con una clara preferencia por los juegos portátiles y los géneros de Juegos de rol y Aventura.**
 
-* **Impacto de las Reseñas en las Ventas:** **El análisis estadístico demostró que las reseñas de los críticos tienen una correlación fuerte y positiva con las ventas de un juego. En contraste, las calificaciones de los usuarios tienen una correlación insignificante. Esto indica que las opiniones de los expertos tienen un peso mucho mayor en la decisión de compra de los consumidores que la opinión del público en general.**
+* **Impacto de las Reseñas en las Ventas:**
+El análisis estadístico demostró que las reseñas de los críticos tienen una correlación fuerte y positiva con las ventas de un juego. En contraste, las calificaciones de los usuarios tienen una correlación insignificante. Esto indica que las opiniones de los expertos tienen un peso mucho mayor en la decisión de compra de los consumidores que la opinión del público en general.
 
 ### Para que la campaña de 2017 sea un éxito, nuestra recomendación es:
 
