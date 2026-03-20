@@ -9,9 +9,9 @@
 Este proyecto de análisis de datos explora el mercado histórico de los videojuegos para identificar patrones de éxito, preferencias de los usuarios y tendencias de ventas a nivel global y regional. A través del procesamiento, limpieza y visualización de datos, se busca extraer *insights* de negocio accionables que permitan a desarrolladores y analistas tomar decisiones estratégicas fundamentadas en el comportamiento real del mercado.
 
 ## 🎯 Objetivo de Negocio
-* **[MODIFICAR SEGÚN TU PROYECTO]** Identificar las plataformas y géneros más rentables en diferentes regiones clave (Norteamérica, Europa, Japón).
-* **[MODIFICAR SEGÚN TU PROYECTO]** Analizar el impacto que tienen las calificaciones de usuarios y críticos profesionales sobre las ventas globales de un título.
-* **[MODIFICAR SEGÚN TU PROYECTO]** Evaluar el ciclo de vida de las plataformas de hardware para predecir ventanas óptimas de lanzamiento de software.
+* ** Identificar las plataformas y géneros más rentables en diferentes regiones clave (Norteamérica, Europa, Japón).**
+* ** Analizar el impacto que tienen las calificaciones de usuarios y críticos profesionales sobre las ventas globales de un título.**
+* ** Evaluar el ciclo de vida de las plataformas de hardware para predecir ventanas óptimas de lanzamiento de software.**
 
 ## ⚙️ Metodología y Herramientas
 1. **Limpieza y Preparación de Datos (EDA):** Tratamiento de valores nulos, estandarización de nombres, conversión de tipos de datos y manejo de valores atípicos en ventas y años de lanzamiento.
