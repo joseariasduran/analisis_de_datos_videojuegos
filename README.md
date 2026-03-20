@@ -16,7 +16,7 @@ Este proyecto de análisis de datos explora el mercado histórico de los videoju
 ## ⚙️ Metodología y Herramientas
 1. **Limpieza y Preparación de Datos (EDA):** Tratamiento de valores nulos, estandarización de nombres, conversión de tipos de datos y manejo de valores atípicos en ventas y años de lanzamiento.
 2. **Análisis Exploratorio y Visualización:** Creación de gráficos de distribución, diagramas de dispersión y series temporales para entender la evolución de la industria y el dominio de plataformas específicas.
-3. **Pruebas de Hipótesis (Estadística):** ** Formulación y evaluación estadística para comprobar si existe una diferencia significativa en las calificaciones promedio entre distintos géneros o plataformas.
+3. **Pruebas de Hipótesis (Estadística):**  Formulación y evaluación estadística para comprobar si existe una diferencia significativa en las calificaciones promedio entre distintos géneros o plataformas.
 
 ## 📊 Resultados y Conclusiones Clave
 * **Tendencia de mercado y estrategia:** **El análisis de la industria revela que el mercado ha cambiado significativamente, por lo que los datos más relevantes para la planificación se encuentran en el período de 2008 a 2016. A partir de estos datos, se observa un claro ciclo de vida de las plataformas, con un promedio de 7 a 10 años desde su lanzamiento hasta su declive. La estrategia más rentable es centrarse en las plataformas que están en su fase de crecimiento o pico, como la PlayStation 4 y la Xbox One. Un dato crucial es que la mayoría de las ventas son generadas por un pequeño número de títulos superventas, lo que significa que la inversión debe ser precisa y no dispersa.**
@@ -29,7 +29,7 @@ Este proyecto de análisis de datos explora el mercado histórico de los videoju
 
 * **Impacto de las Reseñas en las Ventas:** **El análisis estadístico demostró que las reseñas de los críticos tienen una correlación fuerte y positiva con las ventas de un juego. En contraste, las calificaciones de los usuarios tienen una correlación insignificante. Esto indica que las opiniones de los expertos tienen un peso mucho mayor en la decisión de compra de los consumidores que la opinión del público en general.**
 
-* **Para que la campaña de 2017 sea un éxito, nuestra recomendación es:**
+* ###Para que la campaña de 2017 sea un éxito, nuestra recomendación es:
 
 - **Enfoque en plataformas:** Invertir la mayor parte del presupuesto publicitario en la PS4 y la Xbox One a nivel mundial.
 
